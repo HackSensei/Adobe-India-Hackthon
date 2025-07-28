@@ -1,0 +1,71 @@
+Text,Label,Page_num,Bold,FontSize,FontPosition,Alignment,Spacing,WordCount
+RSVP: ----------------,H4,1,True,12.4,"(29.49, 523.33)",center,1.52,2
+HOPE To SEE You THERE!,Title,1,True,22.7,"(33.42, 598.60)",center,2.13,5
+Parsippany -Troy Hills STEM Pathways,Title,1,True,28.01,"(125.82, 37.37)",right,2.54,5
+REGULAR PATHWAY,H2,1,True,15.31,"(117.18, 467.75)",justify,1.39,2
+credits of Math,H1,1,False,11.01,"(99.44, 502.59)",justify,1.0,4
+credits of Science,H1,1,False,11.01,"(99.44, 516.09)",justify,1.0,4
+credits of STEM-designated electives,H1,1,False,11.01,"(99.44, 529.60)",justify,1.0,5
+DISTINCTION PATHWAY,H2,1,True,15.31,"(351.72, 467.75)",justify,1.39,2
+credits of Math - At least one math,H1,1,False,11.01,"(345.43, 484.57)",justify,1.0,9
+credits of Science- At least one,H1,1,False,11.01,"(345.43, 511.59)",justify,1.0,7
+credits of STEM-designated electives,H1,1,False,11.01,"(345.43, 552.12)",justify,1.0,5
+Application form for grant of LTC advance,Title,1,True,11.67,"(199.86, 106.08)",justify,1.11,7
+Ontario’s Libraries,H2,1,True,15.96,"(95.44, 72.08)",justify,1.83,2
+Working Together,H2,1,True,15.96,"(95.44, 94.64)",justify,1.83,2
+RFP: R,Title,1,True,32.04,"(90.02, 156.77)",justify,3.66,2
+RFP: R,H1,1,True,32.04,"(90.06, 156.52)",justify,3.66,2
+RFP: R,H1,1,True,32.04,"(90.28, 156.77)",justify,3.66,2
+RFP: Request f,H1,1,True,32.04,"(90.31, 156.52)",justify,3.68,3
+quest f,H1,1,True,32.04,"(209.47, 156.52)",justify,3.66,2
+quest f,H1,1,True,32.04,"(209.66, 156.77)",justify,3.66,2
+quest for Pr,H1,1,True,32.04,"(209.66, 156.52)",center,3.68,3
+r Pr,H1,1,True,32.04,"(332.15, 156.52)",justify,3.66,2
+r Pr,H1,1,True,32.04,"(332.31, 156.77)",justify,3.66,2
+r Proposal,H1,1,True,32.04,"(332.34, 156.52)",justify,3.68,2
+oposal,H1,1,True,32.04,"(385.37, 156.52)",justify,3.66,1
+oposal,H1,1,True,32.04,"(385.53, 156.77)",justify,3.66,1
+oposal,H1,1,True,32.04,"(385.56, 156.52)",justify,3.66,1
+Ontario’s Digital Library,H1,2,True,20.04,"(90.04, 88.60)",justify,2.29,3
+Summary,H4,2,True,12.0,"(96.04, 195.72)",justify,1.37,1
+Background,H4,3,True,12.0,"(96.04, 206.16)",justify,1.37,1
+The Business Plan to be Developed,H4,6,True,12.0,"(96.04, 459.12)",justify,1.37,6
+Milestones,H4,7,True,12.0,"(96.04, 270.12)",justify,1.37,1
+Approach and Specific Proposal Requirements,H4,7,True,12.0,"(99.52, 423.60)",justify,1.37,5
+Funding Source,H4,10,True,12.0,"(114.40, 344.10)",justify,1.09,2
+"developing a detailed business plan for the three-year implementation phase of the ODL, including",H2,11,False,9.96,"(95.80, 286.43)",center,0.9,15
+"consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way",H2,11,False,9.96,"(95.80, 320.89)",center,0.9,14
+recruiting and managing the business planner(s);,H2,11,False,9.96,"(95.80, 355.46)",justify,0.9,7
+"defining terms of reference and resource parameters for business planner(s), and authorizing",H2,11,False,9.96,"(95.80, 366.86)",center,0.9,13
+serving as a focus group for business planner(s) to test ideas;,H2,11,False,9.96,"(95.80, 389.91)",justify,0.9,12
+providing signoff for business planner(s) at key decision points of business plan development;,H2,11,False,9.96,"(95.80, 401.43)",center,0.9,14
+"securing commitment from library, government, and institutional stakeholders for implementation",H2,11,False,9.96,"(95.80, 412.96)",center,0.9,11
+presenting the business plan to funders,H2,11,False,9.96,"(95.80, 435.88)",justify,0.9,7
+undertaking advocacy efforts to promote the ODL to the broader communities including library,H2,11,False,9.96,"(95.80, 447.41)",center,0.9,14
+Schools:,H2,11,False,9.96,"(95.79, 539.45)",justify,0.9,2
+Universities:,H2,11,False,9.96,"(95.79, 585.42)",justify,0.9,2
+Colleges:,H2,11,False,9.96,"(95.79, 608.47)",justify,0.9,2
+Public libraries:,H2,11,False,9.96,"(95.78, 631.40)",justify,0.9,3
+Ontario Library Association representative (ex-officio)  (OLA to appoint one representative),H2,12,False,9.96,"(95.82, 72.14)",center,0.9,11
+"It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",H2,12,False,9.96,"(95.83, 129.74)",center,0.9,17
+"The Steering Committee is accountable to the Province of Ontario, and to its business plan",H2,12,False,9.96,"(95.80, 626.50)",center,0.9,16
+The role of the Ontario Library Association is to assume responsibility for  funds contributed by the,H2,12,False,9.96,"(95.80, 661.07)",center,0.9,17
+The Steering Committee is accountable to its constituent groups and other stakeholders for,H2,13,False,9.96,"(95.80, 83.77)",center,0.9,14
+Service on the Steering Committee is non-remunerative,H2,13,False,9.96,"(95.81, 164.30)",justify,0.9,8
+Travel and meeting expenses for Steering Committee members are reimbursed according to the,H2,13,False,9.96,"(95.81, 175.70)",center,0.9,14
+Conflict of Interest:,H2,13,False,9.96,"(95.81, 198.75)",justify,0.9,4
+Overview,Title,1,True,24.0,"(252.65, 189.62)",center,2.41,1
+Foundation Level Extensions,H1,1,True,24.0,"(139.35, 244.84)",center,2.41,3
+Revision History,H1,3,True,15.96,"(70.94, 108.94)",left,1.6,2
+Table of Contents,H1,4,True,15.96,"(70.94, 108.94)",left,1.6,3
+Intended Audience,H2,7,False,14.04,"(70.94, 217.35)",left,1.41,3
+Career Paths for Testers,H2,7,False,14.04,"(70.94, 484.52)",left,1.41,5
+Learning Objectives,H2,7,False,14.04,"(70.94, 613.67)",left,1.41,3
+Entry Requirements,H2,8,False,14.04,"(70.94, 156.99)",left,1.41,3
+Structure and Course Duration,H2,8,False,14.04,"(70.94, 217.11)",left,1.41,5
+Keeping It Current,H2,9,False,14.04,"(70.94, 133.95)",left,1.41,4
+Syllabus,H1,10,True,15.96,"(106.93, 138.34)",justify,1.6,1
+Business Outcomes,H2,10,False,14.04,"(70.94, 187.95)",left,1.41,3
+Content,H2,10,False,14.04,"(70.94, 533.00)",left,1.41,2
+Trademarks,H2,12,False,14.04,"(70.94, 171.39)",left,1.41,2
+Documents and Web Sites,H2,12,False,14.04,"(70.94, 257.46)",left,1.41,5
